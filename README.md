@@ -1,12 +1,1 @@
 Degrees and Certificates
-01) Bachelors of Science
-02) Masters of Public Health
-03) FEMA_ICS100b
-04) FEMA_ICS100HCB
-05) FEMA_ICS200B
-06) FEMA_ICS200HCA
-07) FEMA_ICS700a
-08) FEMA_ICS800B
-09) CISA_AWR-903
-10) CISA_AWR-911
-11)
